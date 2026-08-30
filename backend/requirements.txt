@@ -1,1 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+bcrypt
+PyJWT
+requests
+motor
+pydantic
 
